@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c903022-ca47-473f-a22d-59be0145f80c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../DOCS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../DOCS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INSTRUCTIONS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../INSTRUCTIONS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHECK_LOGS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUN_PROD_FIXED.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUN_PROD_LOGS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/BackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/config/JwtAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/config/LocalDateTimeDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/AnalyticsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/AuditLogController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/CommentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/InitiativeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/MilestoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/NotificationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/PlanController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/ReportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/dto/BadgeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/dto/DashboardStatsDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/dto/DepartmentalInsightsDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/dto/GamifiedVelocityDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/dto/LeaderboardEntryDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/dto/PerformanceScoreDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/dto/VelocityMetricsDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/exception/ErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/AnalyticsDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/AuditLog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/Initiative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/Milestone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/MilestoneStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/Notification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/Plan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/PlanPriority.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/PlanStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/ReportMetrics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/model/UserStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/AuditLogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/CommentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/InitiativeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/MilestoneRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/NotificationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/PlanRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/ReportRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/AnalyticsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/AuditService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/CommentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/CustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/InitiativeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/MilestoneService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/PlanService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/ReportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/plantrack/backend/util/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/create_comments_system.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/migrate_to_multiple_assignees.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/plantrack/backend/BackendApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/components/analytics-dashboard/analytics-dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/components/analytics-dashboard/analytics-dashboard.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/components/audit-logs/audit-logs.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/components/audit-logs/audit-logs.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/components/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/components/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/comment.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/comment.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/dashboard.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/dashboard.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/initiative.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/initiative.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/milestone.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/milestone.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/notification.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/notification.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/plan.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/plan.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/app/services/user.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/app/services/user.service.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="38awmWMtcLdPG5WqfuQiPW8DyME" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2466885/OneDrive - Cognizant/Documents/project/sample/backend&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="BackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.plantrack.backend.BackendApplication" />
+      <module name="backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.plantrack.backend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BackendApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c903022-ca47-473f-a22d-59be0145f80c" name="Changes" comment="" />
+      <created>1769051150065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769051150065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
